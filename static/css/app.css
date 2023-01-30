@@ -8,3 +8,17 @@ body {
   max-width: 960px;
   margin: 0 auto;
 }
+
+h1{
+  font-size: 50px;
+  margin: 0;
+  background-image: linear-gradient(to left, violet, rgb(24, 0, 130));
+  color: white;
+}
+p{
+  font-size: 25px;
+  margin: 0;
+}
+img{
+  width: 300px;
+}
